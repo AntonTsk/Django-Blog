@@ -1,2 +1,2 @@
-# Flask Blog
-Blog written in Python using the Flask framework
+# Django Blog
+Blog written in Python using the Django framework
