@@ -1,2 +1,2 @@
 # Django Blog
-Blog written in Python using the Django framework
+Blog written in Python using Django
